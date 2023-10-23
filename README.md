@@ -13,4 +13,7 @@
 ![3](https://github.com/Berezhok/sys-pattern-homework/blob/main/Screenshot%20from%202023-10-23%2014-56-40.png)
 ![4](https://github.com/Berezhok/sys-pattern-homework/blob/main/Screenshot%20from%202023-10-23%2015-00-44.png)
 ##### Файл /var/log/zabbix/zabbix-agentd.log
-![5]()
+![5](https://github.com/Berezhok/sys-pattern-homework/blob/main/Screenshot%20from%202023-10-23%2015-12-15.png)
+##### Monitoring > Latest data
+![6](https://github.com/Berezhok/sys-pattern-homework/blob/main/Screenshot%20from%202023-10-23%2015-02-32.png)
+![7](https://github.com/Berezhok/sys-pattern-homework/blob/main/Screenshot%20from%202023-10-23%2015-03-02.png)
